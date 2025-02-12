@@ -208,4 +208,4 @@ client.on('interactionCreate', async (interaction) => {
   }
 });
 
-client.login('MTI3MjU1NTA2NDgxMjI0MDk0Ng.Gp5fwn.5CEydI-qDA-X_1JoJ2SpIOMmzvyPpmotVYZY7k'); // Replace with your bot's token
+client.login('yoooo'); // Replace with your bot's token
